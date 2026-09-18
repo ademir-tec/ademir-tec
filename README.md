@@ -1,8 +1,9 @@
 
 <div align="center">
 
-<!-- Banner principal con gradiente neón -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24,30&height=250&section=header&text=ADEMIR&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=⚡%20Ing.%20de%20Sistemas%20·%20UNSCH%20⚡&descAlignY=60&descSize=20&animation=twinkling" width="100%"/>
+
+<!-- Banner minimalista sin texto -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24,30&height=180&section=header" width="100%"/>
 
 <!-- Texto animado multicolor -->
 <a href="https://git.io/typing-svg">
