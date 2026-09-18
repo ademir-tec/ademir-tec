@@ -1,5 +1,30 @@
 <div align="center">
 
+<!-- Banner minimalista sin texto -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24,30&height=180&section=header" width="100%"/>
+
+<!-- Hola, soy Ademir — efecto máquina de escribir con fuente de código -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=40&pause=1000&color=00F0FF&center=true&vCenter=true&width=700&height=100&lines=Hola%2C+soy+Ademir_%3E;Ing.+de+Sistemas+%40+UNSCH_;%3E+IA+%7C+Ciberseguridad+%7C+Juegos_;%3E+Apps+%7C+Edici%C3%B3n+de+Video_" alt="Typing SVG" />
+</a>
+
+<br>
+
+<!-- Badges de perfil -->
+![Profile Views](https://komarev.com/ghpvc/?username=TU_USUARIO&label=VISITAS&color=ff00ff&style=for-the-badge)
+![Followers](https://img.shields.io/github/followers/TU_USUARIO?label=SEGUIDORES&style=for-the-badge&color=00f0ff&labelColor=0d1117)
+![Status](https://img.shields.io/badge/STATUS-APRENDIENDO-00ff88?style=for-the-badge&labelColor=0d1117)
+
+<br><br>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+
+</div>
+
+
+
+<div align="center">
+
 <!-- Banner principal con gradiente neón -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24,30&height=250&section=header&text=ADEMIR&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=⚡%20Ing.%20de%20Sistemas%20·%20UNSCH%20⚡&descAlignY=60&descSize=20&animation=twinkling" width="100%"/>
 
@@ -139,7 +164,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tu-usuario)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:infoalvaroademir@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/alvaroademir7)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@ademir)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@ademir_)
 
 <br><br>
 
