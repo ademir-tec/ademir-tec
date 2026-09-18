@@ -53,7 +53,6 @@
 </tr>
 </table>
 
-> _"Aprender, construir, romper y repetir."_
 
 </div>
 
