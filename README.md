@@ -1,73 +1,33 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24,30&height=180&section=header" width="100%"/>
 
-<!-- Hola, soy Ademir — efecto escritura, fuente código -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=50&pause=1200&color=00F0FF&center=true&vCenter=true&width=500&height=60&lines=Hola%2C+soy+Ademir_" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=30&pause=1200&color=00F0FF&center=true&vCenter=true&width=500&height=60&lines=Hola%2C+soy+Ademir_" alt="Typing SVG" />
 </a>
 
-<br>
-
-<!-- Badges -->
-![Followers](https://img.shields.io/github/followers/TU_USUARIO?label=SEGUIDORES&style=flat-square&color=00f0ff&labelColor=0d1117)
-![Status](https://img.shields.io/badge/APRENDIENDO-00ff88?style=flat-square&labelColor=0d1117)
+**Ing. de Sistemas · UNSCH**  
+🤖 IA · 🔐 Ciberseguridad · 🎮 Videojuegos · 📱 Apps · 🎬 Edición
 
 <br>
-<!-- Texto animado con intereses -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=16&pause=1500&color=FF00FF&center=true&vCenter=true&width=600&lines=IA+%C2%B7+Ciberseguridad+%C2%B7+Videojuegos;Apps+%C2%B7+Edici%C3%B3n+de+Video;C%C3%B3digo%2C+curiosidad+y+caf%C3%A9" alt="Typing SVG" />
-</a>
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C#](https://img.shields.io/badge/C%23-9B4F96?style=for-the-badge&logo=c-sharp&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+![Premiere Pro](https://img.shields.io/badge/Premiere_Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white)
+
+<br>
+
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:infoalvaroademir@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/alvaroademir7)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@ademir_)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24,30&height=120&section=footer" width="100%"/>
 
 </div>
-
-<br>
-
----
-
-<div align="center">
-
-### ⌈ Sobre mí ⌋
-
-Estudiante de **Ing. de Sistemas** en la **UNSCH** · Perú  
-Me muevo entre la **IA**, la **ciberseguridad**, los **videojuegos** y las **apps**.  
-También edito video y disfruto contar cosas con imágenes.
-
-</div>
-
-<br>
-
----
-
-<div align="center">
-
-### ⌈ Stack ⌋
-
-![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=00F0FF)
-![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=00F0FF)
-![C#](https://img.shields.io/badge/C%23-0d1117?style=flat-square&logo=c-sharp&logoColor=00F0FF)
-![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=flat-square&logo=html5&logoColor=00F0FF)
-![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=flat-square&logo=css3&logoColor=00F0FF)
-![Flutter](https://img.shields.io/badge/Flutter-0d1117?style=flat-square&logo=flutter&logoColor=00F0FF)
-![Linux](https://img.shields.io/badge/Linux-0d1117?style=flat-square&logo=linux&logoColor=00F0FF)
-![Unity](https://img.shields.io/badge/Unity-0d1117?style=flat-square&logo=unity&logoColor=00F0FF)
-![Premiere Pro](https://img.shields.io/badge/Premiere_Pro-0d1117?style=flat-square&logo=adobepremierepro&logoColor=00F0FF)
-
-</div>
-
-<br>
-
----
-
-<div align="center">
-
-### ⌈ Contacto ⌋
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=00F0FF)](https://linkedin.com/in/tu-usuario)
-[![Gmail](https://img.shields.io/badge/Gmail-0d1117?style=flat-square&logo=gmail&logoColor=00F0FF)](mailto:infoalvaroademir@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-0d1117?style=flat-square&logo=instagram&logoColor=00F0FF)](https://instagram.com/alvaroademir7)
-[![YouTube](https://img.shields.io/badge/YouTube-0d1117?style=flat-square&logo=youtube&logoColor=00F0FF)](https://www.youtube.com/@ademir_)
-
-<br>
-
-<sub><i>Gracias por pasar ✦</i></sub>
 
