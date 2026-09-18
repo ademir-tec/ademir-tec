@@ -146,7 +146,3 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=18&pause=1000&color=FF00FF&center=true&vCenter=true&width=500&lines=Gracias+por+visitar+mi+perfil+%E2%9C%A8" />
 
 <br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24,30&height=150&section=footer&text=Aprendiendo%2C%20construyendo%20y%20editando&fontSize=18&fontColor=ffffff&fontAlignY=70" width="100%"/>
-
-</div>
