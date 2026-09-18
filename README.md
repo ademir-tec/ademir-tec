@@ -26,17 +26,147 @@
 
 <div align="center">
 
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> 𝐒𝐎𝐁𝐑𝐄 𝐌𝐈
+## ⌈ 𝐒𝐎𝐁𝐑𝐄 𝐌𝐈 ⌋
+
+<table>
+<tr>
+<td align="center" width="50%">
+
+### 👤 Perfil
+
+**Ademir**  
+🎓 Ing. de Sistemas · **UNSCH**  
+📍 Perú  
+
+</td>
+<td align="center" width="50%">
+
+### 🎯 Enfoque
+
+🤖 Inteligencia Artificial  
+🔐 Ciberseguridad  
+🎮 Videojuegos  
+📱 Apps & Edición de Video  
+
+</td>
+</tr>
+</table>
+
+> _"Aprender, construir, romper y repetir."_
 
 </div>
 
-<table align="center">
-<tr>
-<td>
+<br>
 
-```yaml
-nombre:      Ademir
-estudios:    Ingeniería de Sistemas @ UNSCH
-intereses:   [IA, Ciberseguridad, Videojuegos, Apps, Edición de Video]
-mentalidad:  "Aprender, construir, romper, repetir"
-meta:        Crear soluciones que mezclen IA, seguridad y entretenimiento
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+
+<br>
+
+<!-- ═══════════ TECH STACK ═══════════ -->
+
+<div align="center">
+
+## ⌈ 𝐒𝐓𝐀𝐂𝐊 ⌋
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+**🧠 Lenguajes**
+
+![Python](https://img.shields.io/badge/Python-FFD43B?style=flat-square&logo=python&logoColor=blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![C#](https://img.shields.io/badge/C%23-68217A?style=flat-square&logo=c-sharp&logoColor=white)
+
+</td>
+<td align="center" width="33%">
+
+**🎨 Web**
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+</td>
+<td align="center" width="33%">
+
+**📱 Móvil & Juegos**
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td align="center">
+
+**🖥️ Sistema**
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+</td>
+<td align="center">
+
+**🎬 Edición**
+
+![Premiere Pro](https://img.shields.io/badge/Premiere_Pro-9999FF?style=flat-square&logo=adobepremierepro&logoColor=white)
+
+</td>
+<td align="center">
+
+**⚡ En progreso**
+
+![Learning](https://img.shields.io/badge/Aprendiendo-00FF88?style=flat-square&logo=bookstack&logoColor=black)
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<br>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+
+<br>
+
+<!-- ═══════════ STATS ═══════════ -->
+
+<div align="center">
+
+## ⌈ 𝐄𝐒𝐓𝐀𝐃𝐈𝐒𝐓𝐈𝐂𝐀𝐒 ⌋
+
+<img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF00FF&icon_color=00F0FF&text_color=FFFFFF&border_radius=15" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF00FF&text_color=FFFFFF&border_radius=15" height="170"/>
+
+<br><br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&theme=radical&hide_border=true&background=0D1117&stroke=FF00FF&ring=00F0FF&fire=FF00FF&currStreakLabel=00F0FF&border_radius=15" height="170"/>
+
+</div>
+
+<br>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+
+<br>
+
+<!-- ═══════════ CONTACTO ═══════════ -->
+
+<div align="center">
+
+## ⌈ 𝐂𝐎𝐍𝐓𝐀𝐂𝐓𝐎 ⌋
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tu-usuario)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu@email.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/tu-usuario)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@tu-canal)
+
+<br><br>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=18&pause=1000&color=FF00FF&center=true&vCenter=true&width=500&lines=Gracias+por+visitar+mi+perfil+%E2%9C%A8" />
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24,30&height=150&section=footer&text=Aprendiendo%2C%20construyendo%20y%20editando&fontSize=18&fontColor=ffffff&fontAlignY=70" width="100%"/>
+
+</div>
