@@ -3,7 +3,7 @@
 
 <!-- Hola, soy Ademir — efecto escritura, fuente código -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&pause=1200&color=00F0FF&center=true&vCenter=true&width=500&height=60&lines=Hola%2C+soy+Ademir_" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=50&pause=1200&color=00F0FF&center=true&vCenter=true&width=500&height=60&lines=Hola%2C+soy+Ademir_" alt="Typing SVG" />
 </a>
 
 <br>
@@ -12,8 +12,7 @@
 ![Followers](https://img.shields.io/github/followers/TU_USUARIO?label=SEGUIDORES&style=flat-square&color=00f0ff&labelColor=0d1117)
 ![Status](https://img.shields.io/badge/APRENDIENDO-00ff88?style=flat-square&labelColor=0d1117)
 
-<br><br>
-
+<br>
 <!-- Texto animado con intereses -->
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=16&pause=1500&color=FF00FF&center=true&vCenter=true&width=600&lines=IA+%C2%B7+Ciberseguridad+%C2%B7+Videojuegos;Apps+%C2%B7+Edici%C3%B3n+de+Video;C%C3%B3digo%2C+curiosidad+y+caf%C3%A9" alt="Typing SVG" />
