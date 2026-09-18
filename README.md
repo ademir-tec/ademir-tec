@@ -15,7 +15,7 @@
 ![Followers](https://img.shields.io/github/followers/TU_USUARIO?label=SEGUIDORES&style=for-the-badge&color=00f0ff&labelColor=0d1117)
 ![Status](https://img.shields.io/badge/STATUS-APRENDIENDO-00ff88?style=for-the-badge&labelColor=0d1117)
 
-<br><br>
+<br>
 
 <!-- Línea decorativa neón -->
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
@@ -139,7 +139,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tu-usuario)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:infoalvaroademir@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/alvaroademir7)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/[@tu-canal](https://www.youtube.com/@ademir_))
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@ademir)
 
 <br><br>
 
