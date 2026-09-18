@@ -1,27 +1,3 @@
-<div align="center">
-
-<!-- Banner minimalista sin texto -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24,30&height=180&section=header" width="100%"/>
-
-<!-- Hola, soy Ademir — efecto máquina de escribir con fuente de código -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=40&pause=1000&color=00F0FF&center=true&vCenter=true&width=700&height=100&lines=Hola%2C+soy+Ademir_%3E;Ing.+de+Sistemas+%40+UNSCH_;%3E+IA+%7C+Ciberseguridad+%7C+Juegos_;%3E+Apps+%7C+Edici%C3%B3n+de+Video_" alt="Typing SVG" />
-</a>
-
-<br>
-
-<!-- Badges de perfil -->
-![Profile Views](https://komarev.com/ghpvc/?username=TU_USUARIO&label=VISITAS&color=ff00ff&style=for-the-badge)
-![Followers](https://img.shields.io/github/followers/TU_USUARIO?label=SEGUIDORES&style=for-the-badge&color=00f0ff&labelColor=0d1117)
-![Status](https://img.shields.io/badge/STATUS-APRENDIENDO-00ff88?style=for-the-badge&labelColor=0d1117)
-
-<br><br>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
-
-</div>
-
-
 
 <div align="center">
 
@@ -36,7 +12,6 @@
 <br>
 
 <!-- Badges de perfil con estilo neón -->
-![Profile Views](https://komarev.com/ghpvc/?username=TU_USUARIO&label=VISITAS&color=ff00ff&style=for-the-badge)
 ![Followers](https://img.shields.io/github/followers/TU_USUARIO?label=SEGUIDORES&style=for-the-badge&color=00f0ff&labelColor=0d1117)
 ![Status](https://img.shields.io/badge/STATUS-APRENDIENDO-00ff88?style=for-the-badge&labelColor=0d1117)
 
