@@ -1,7 +1,5 @@
 <div align="center">
 
-<!-- Banner minimalista -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24,30&height=160&section=header" width="100%"/>
 
 <!-- Hola, soy Ademir — efecto escritura, fuente código -->
 <a href="https://git.io/typing-svg">
@@ -74,8 +72,3 @@ También edito video y disfruto contar cosas con imágenes.
 
 <sub><i>Gracias por pasar ✦</i></sub>
 
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24,30&height=100&section=footer" width="100%"/>
-
-</div>
