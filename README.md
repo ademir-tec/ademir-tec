@@ -129,26 +129,6 @@
 
 <br>
 
-<!-- ═══════════ STATS ═══════════ -->
-
-<div align="center">
-
-## ⌈ 𝐄𝐒𝐓𝐀𝐃𝐈𝐒𝐓𝐈𝐂𝐀𝐒 ⌋
-
-<img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF00FF&icon_color=00F0FF&text_color=FFFFFF&border_radius=15" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF00FF&text_color=FFFFFF&border_radius=15" height="170"/>
-
-<br><br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&theme=radical&hide_border=true&background=0D1117&stroke=FF00FF&ring=00F0FF&fire=FF00FF&currStreakLabel=00F0FF&border_radius=15" height="170"/>
-
-</div>
-
-<br>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
-
-<br>
 
 <!-- ═══════════ CONTACTO ═══════════ -->
 
@@ -157,9 +137,9 @@
 ## ⌈ 𝐂𝐎𝐍𝐓𝐀𝐂𝐓𝐎 ⌋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tu-usuario)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu@email.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/tu-usuario)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@tu-canal)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:infoalvaroademir@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/alvaroademir7)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/[@tu-canal](https://www.youtube.com/@ademir_))
 
 <br><br>
 
